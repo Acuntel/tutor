@@ -5,8 +5,6 @@ distilled file. Resolve them, then delete the entry and update the source of tru
 
 ## WRIT 150
 
-- [ ] **Which section am I in, 64440 at 11:00 in GFS 114 or 64550 at 12:00 in GFS 113?**
-      Confirm on the USC registration portal. Update `courses/writ-150/COURSE.md`.
 - [ ] **What time of day are assignments due?** The syllabus gives dates but no times.
       Check the Brightspace cutoff for WP1 first. She does not read email after 5:00 pm, so
       a late-night question before a deadline will not get answered.
@@ -23,3 +21,25 @@ distilled file. Resolve them, then delete the entry and update the source of tru
       the largest unknown in the course right now.
 - [ ] **How does the Google workbook get set up?** The syllabus says "more on this later".
       All AWAs are written there first.
+
+## Resolved
+
+- [x] ~~Which section am I in?~~ **64440**, 11:00 to 11:50 am, GFS 114. Confirmed from the
+      WebReg calendar screenshot on 2026-08-25.
+
+## MATH 118, CTCS 190, BUAD 302
+
+These three are shells. Everything about them is unknown until their syllabi arrive.
+
+- [ ] **Course titles are unverified.** I filled in the catalog names from recollection:
+      MATH 118 "Fundamental Principles of Calculus", CTCS 190 "Introduction to Cinema",
+      BUAD 302 "Communication Strategy in Business". Confirm each against WebReg or the
+      syllabus and delete the unverified note in each `COURSE.md`.
+- [ ] **Rooms.** The calendar view does not show them. Only WRIT 150's room is known.
+- [ ] **Units for each course**, and the semester total.
+- [ ] **Discussion section instructors** for MATH-118 39454 and CTCS-190 18070.
+- [ ] **AI policy for each of the three.** Do not assume anything carries over from WRIT 150
+      in either direction. Get each one in writing.
+- [ ] **Grading breakdowns, exam dates, and submission platforms** for all three.
+- [ ] **Does CTCS 190's Tuesday 2:00 to 5:50 block include a screening**, and is attendance
+      at it taken separately from lecture?

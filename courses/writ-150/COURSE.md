@@ -10,15 +10,19 @@
 |---|---|
 | Division | USC Writing Program |
 | Meets | Monday, Wednesday, Friday |
-| Section 64440 | 11:00 to 11:50, GFS 114 |
-| Section 64550 | 12:00 to 12:50, GFS 113 |
+| **My section** | **64440**, 11:00 to 11:50 am, GFS 114 |
+| Other section | 64550, 12:00 to 12:50, GFS 113 |
 | Instructor | Alison Minami (she/her/hers) |
 | Email | aminami@usc.edu |
 | Office hours | Wednesday and Friday, 9:30 to 10:30 am, or by appointment |
 | Office | JEF 123 |
 
-Which section I am in is unconfirmed. See `../../OPEN-QUESTIONS.md`.
+Section confirmed as **64440** from the WebReg calendar screenshot,
+`../../semester/sources/2026-08-25-webreg-calendar.png`, captured 2026-08-25.
 The syllabus prints section 64440 as "11:00 to 11:50pm", which is a typo for am.
+
+Minami's office hours, Wednesday and Friday 9:30 to 10:30 am in JEF 123, fall directly
+before this class on both days. Full weekly schedule: `../../semester/fall-2026-schedule.md`.
 
 ## Platforms
 

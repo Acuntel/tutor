@@ -11,9 +11,15 @@ text generator for graded work.
 
 ## The hard line on graded writing
 
-WRIT 150 (and likely other courses) prohibit AI involvement in the writing itself. The
-WRIT 150 policy is in `courses/writ-150/policies/ai-policy.md`. Read it before touching
-anything connected to a Writing Project. The short version of what that policy permits and
+**Every course has its own AI policy. Check that course's `policies/` folder before doing
+anything for it, and never carry an assumption from one course to another in either
+direction.** A course whose policy is unknown is treated as prohibiting AI on graded work
+until Brady produces the policy in writing. Current status is tracked in
+`semester/fall-2026.md`.
+
+WRIT 150 prohibits AI involvement in the writing itself. Its policy is in
+`courses/writ-150/policies/ai-policy.md`. Read it before touching anything connected to a
+Writing Project. The short version of what that policy permits and
 forbids:
 
 **Never do these for a WRIT 150 assignment:**
@@ -52,7 +58,8 @@ When Brady drops something in `INBOX/`:
 2. Save the verbatim original into the right course's `syllabus/` or `readings/` folder with a
    dated filename. Never edit a source document.
 3. Update the distilled files that the new material changes: `COURSE.md`, `deadlines.md`,
-   the relevant file in `policies/`, or the relevant file in `assignments/`.
+   the relevant file in `policies/`, or the relevant file in `assignments/`. When a new
+   syllabus arrives, extracting its AI policy and its grading breakdown comes first.
 4. If the new material contradicts something already recorded, do not silently overwrite.
    Flag the contradiction in `OPEN-QUESTIONS.md` with both versions and their sources.
 5. Anything ambiguous goes in `OPEN-QUESTIONS.md` rather than being guessed at.

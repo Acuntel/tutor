@@ -25,9 +25,13 @@ school-brain/
 ├── CLAUDE.md              operating rules for Claude in this repo
 ├── OPEN-QUESTIONS.md      things I need to confirm with an instructor or check on Brightspace
 ├── INBOX/                 unfiled drops, cleared out periodically
-├── semester/              per-semester overview and combined deadline calendar
-└── courses/
-    └── writ-150/          one folder per course
+├── semester/              per-semester overview, weekly schedule, combined deadlines
+│   └── sources/           screenshots and exports, kept verbatim
+└── courses/               one folder per course
+    ├── writ-150/          full syllabus loaded
+    ├── math-118/          shell, awaiting syllabus
+    ├── ctcs-190/          shell, awaiting syllabus
+    └── buad-302/          shell, awaiting syllabus
         ├── COURSE.md              distilled facts: logistics, grading, policies
         ├── instructor-profile.md  what this instructor rewards and penalizes
         ├── deadlines.md           every date, with what is actually due
@@ -46,3 +50,4 @@ school-brain/
 - Every claim in a distilled file traces to a source document. If it does not, it is marked
   as an assumption.
 - Course policy beats convenience. If a policy says do it a certain way, do it that way.
+- Policies are per course and per instructor. Nothing carries from one course to another.
