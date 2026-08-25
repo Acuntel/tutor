@@ -14,7 +14,21 @@ distilled file. Resolve them, then delete the entry and update the source of tru
 - [ ] **Which service-learning org am I assigned to?** Placement is by assignment with
       preference ranking considered. Was a preference ranking submitted?
 - [ ] **Is a signed timesheet or other documentation required for the 12 service hours?**
-      The syllabus does not say. Ask before the first shift so hours are not lost.
+      Neither the syllabus nor the JEP handout says. Ask before the first shift so hours are
+      not lost.
+- [ ] **TB test date wording contradicts itself in the JEP handout.** The 826LA section says
+      the test must be dated **no earlier than** September 2022. The Legacy LA section says
+      **no later than** September 2022. "No earlier than" is the sensible reading. Confirm
+      with JEP before relying on an older test.
+- [ ] **The Alternatives section lists January LiveScan dates** (1/15, 1/21, 1/23, 1/27,
+      1/29), left over from a spring version of the handout. The real Fall 2026 dates are
+      8/25, 8/27, 9/4, 9/8, 9/10, and 9/15.
+- [ ] **One LiveScan slot is printed as "9/10 1am-2pm"**, which is not a real time. Probably
+      11am to 2pm or 1pm to 2pm. Confirm before showing up.
+- [ ] **Do the conflicting orientations have alternates?** Water Drop (Tue 9/8 5:30pm, 20 min
+      overlap with CTCS), FoodCycle (Mon 9/14 5pm, overlaps BUAD), PEP (Wed 9/9 5pm, overlaps
+      BUAD), Francisco Homes (Tue 9/15 3:30pm, inside CTCS). Only 826LA publishes async
+      makeups. Ask before assuming any of these is a blocker.
 - [ ] **Peer review and conference dates.** Not in the syllabus. They come from Brightspace
       or from class.
 - [ ] **AWA list and due dates.** Not in the syllabus. AWAs are 20% of the grade, so this is
@@ -24,6 +38,9 @@ distilled file. Resolve them, then delete the entry and update the source of tru
 
 ## Resolved
 
+- [x] ~~Which orgs are available?~~ The JEP handout lists **eight** options, more than the
+      syllabus does. The JEP list governs. See
+      `courses/writ-150/service-learning/README.md`.
 - [x] ~~Which section am I in?~~ **64440**, 11:00 to 11:50 am, GFS 114. Confirmed from the
       WebReg calendar screenshot on 2026-08-25.
 

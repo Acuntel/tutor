@@ -15,6 +15,22 @@ verify each one on Brightspace as it approaches.
 The Final Portfolio consists of the final draft of WP3 plus the supplementary assignment.
 **No late essays are accepted for the portfolio.**
 
+## Service-learning (JEP) dates
+
+| Due | Weekday | What |
+|---|---|---|
+| **2026-08-28, 12:00 noon** | **Friday** | **JEP preference form. Rank 2 partnerships, select Minami under step 3.** |
+| week of 2026-08-31 | | Partnership assignment comes back |
+| 2026-08-27 | Thursday | LiveScan at JEP House, 12:00 to 4:00 pm. Best free slot. Only needed for 826LA or Legacy LA |
+| 2026-09-08 to 2026-09-18 | | Partner-specific orientation and training window |
+| 2026-09-21 | Monday | TB test administered, Engemann, 9:00 am to 3:00 pm. 826LA or Legacy LA only |
+| 2026-09-23 | Wednesday | TB test read, Engemann, 10:00 am to 2:00 pm. Second visit is mandatory |
+| 2026-09-28 | Monday | Volunteering should be underway by this date |
+| 2026-10-17 | Saturday | 826LA "Write for Your Future", 9:00 am to 3:00 pm. 5 to 6 hours in one day |
+| 2026-12-04 | Friday | Last day to log service hours |
+
+Full detail in `service-learning/clearance-checklist.md`.
+
 ## Not yet scheduled
 
 These exist but have no dates yet. They come from Brightspace and from class. File them here
