@@ -19,7 +19,7 @@ The Final Portfolio consists of the final draft of WP3 plus the supplementary as
 
 | Due | Weekday | What |
 |---|---|---|
-| **2026-08-28, 12:00 noon** | **Friday** | **JEP preference form. Rank 2 partnerships, select Minami under step 3.** |
+| **2026-08-28, 12:00 noon** | **Friday** | **JEP preference form at https://dornsife.usc.edu/jep-apply. Rank 2 partnerships, select Minami under step 3. JEP's site says Sept 4; Minami's Aug 28 governs.** |
 | week of 2026-08-31 | | Partnership assignment comes back |
 | 2026-08-27 | Thursday | LiveScan at JEP House, 12:00 to 4:00 pm. Best free slot. Only needed for 826LA or Legacy LA |
 | 2026-09-08 to 2026-09-18 | | Partner-specific orientation and training window |

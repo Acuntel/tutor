@@ -6,8 +6,12 @@ Free/busy notes come from `../../../semester/fall-2026-schedule.md`.
 ## Do now, before Friday
 
 - [ ] **Submit the JEP preference form. Due Friday, August 28, 2026 at 12:00 noon.**
-      Rank two partnerships. Under step three select "yes" for signing up for a class and
-      choose **Minami**.
+      **https://dornsife.usc.edu/jep-apply**
+      Laptop or tablet only, not a phone. Rank two partnerships. Under step three select
+      "yes" for signing up for a class and choose **Minami**. Scroll to the end and
+      acknowledge the terms and conditions or the form will not submit.
+      ⚠️ JEP's own site advertises a September 4 close. Minami's August 28 noon deadline is
+      the one that governs.
 
 ## LiveScan, only if assigned 826LA or Legacy LA
 
@@ -23,6 +27,9 @@ reimbursement afterward, which the document strongly discourages.
 | 9/8 | Tuesday | 12:00 to 4:00 pm | ⚠️ Free 1:00 to 2:00 only |
 | 9/10 | Thursday | listed as "1am-2pm", a typo | ✅ Free after 11:00 am |
 | 9/15 | Tuesday | 11:00 am to 3:00 pm | ⚠️ Free 11:00 to 12:00 only |
+
+Appointments are booked through the JEP LiveScan spreadsheet:
+https://docs.google.com/spreadsheets/d/1_B0j-_hphE2DoJsRyMoPBwTFJTMvU6ZC/edit?gid=1205725933#gid=1205725933
 
 - [ ] Book **Thursday 8/27, 12:00 to 4:00 pm**. It is the only slot with no class pressure at
       all, and it lands before the assignment even comes back, which costs nothing if the

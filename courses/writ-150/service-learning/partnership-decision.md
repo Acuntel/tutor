@@ -6,9 +6,16 @@ against a 2026 calendar and every one of them checks out.
 
 ## The sign-up is one form
 
+**Application: https://dornsife.usc.edu/jep-apply**
+Redirects to `https://uscdornsife.usc.edu/secure/JEP`, which requires a USC login.
+Verified live 2026-08-25.
+
+Use a laptop, desktop, or tablet. JEP states the form does not work on a cell phone, and you
+must scroll to the end and acknowledge the terms and conditions or it will not submit.
+
 Everything else in that document happens after assignment. The sign-up itself:
 
-1. Go to the JEP application.
+1. Go to https://dornsife.usc.edu/jep-apply and log in.
 2. Rank your **top two** partnerships.
 3. **Under step three, select "yes"** to indicate you are signing up for a class, and choose
    your professor's last name: **Minami**. Skipping this detaches your preferences from your
@@ -17,7 +24,29 @@ Everything else in that document happens after assignment. The sign-up itself:
 
 **Deadline: Friday, August 28, 2026 at 12:00 noon.**
 
-Questions go to Emma Rendon, JEP Program Specialist, erendon@usc.edu.
+⚠️ **The two published deadlines disagree.** JEP's own sign-up page says Fall 2026 sign-ups
+run from August 24 at 8:30 am to **September 4 at 5:00 pm**. Minami's handout says **Friday
+August 28 at 12:00 noon**. Use August 28. It is the course requirement, and it has to be the
+earlier one because partner assignments come back in the second week of class and
+partner-specific trainings begin September 8. Treating JEP's later date as the real one would
+miss the class deadline by a week.
+
+Questions go to Emma Rendon, JEP Program Specialist, erendon@usc.edu, or the JEP House at
+jephouse@usc.edu.
+
+## Verified links
+
+| What | URL | Verified |
+|---|---|---|
+| JEP application | https://dornsife.usc.edu/jep-apply | 2026-08-25, 301 to the secure app |
+| JEP student sign-up info page | https://dornsife.usc.edu/joint-educational-project/student-sign-up/ | 2026-08-25, 200 |
+| LiveScan appointment spreadsheet | https://docs.google.com/spreadsheets/d/1_B0j-_hphE2DoJsRyMoPBwTFJTMvU6ZC/edit?gid=1205725933#gid=1205725933 | 2026-08-25, 200 |
+| Security document upload (TB test results) | https://uscdornsife.usc.edu/secure/JEP/SecurityDocuments/ | from the JEP handout |
+| JEP courses list | https://dornsife.usc.edu/joint-educational-project/courses/ | 2026-08-25, 200 |
+
+The links inside the JEP handout Brady pasted were stripped, so every "sign up here" in the
+verbatim copy is bare text. These were recovered from JEP's own site and each one was checked
+for a live response, not assumed.
 
 ## The three timelines, separated
 

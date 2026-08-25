@@ -7,8 +7,11 @@ Every 2 hours short drops the final course grade a half step.
 
 **Not yet assigned.**
 
-🚨 **JEP preference form due Friday, 2026-08-28 at 12:00 noon.** Rank two partnerships,
-and under step three select "yes" for signing up for a class and choose **Minami**.
+🚨 **JEP preference form due Friday, 2026-08-28 at 12:00 noon.**
+**Apply at https://dornsife.usc.edu/jep-apply** (laptop or tablet, not a phone).
+Rank two partnerships, and under step three select "yes" for signing up for a class and
+choose **Minami**.
+⚠️ JEP's own site says sign-ups close September 4. Minami's August 28 noon deadline governs.
 
 - Assignment comes back the week of Aug 31.
 - Clearance and partner training: Tue 2026-09-08 to Fri 2026-09-18.
