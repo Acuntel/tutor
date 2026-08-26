@@ -1,4 +1,4 @@
-# School Brain: operating instructions for Claude
+# Tutor: operating instructions for Claude
 
 This repository is Brady's persistent context for USC coursework. Read this file first
 whenever work happens in this directory.
