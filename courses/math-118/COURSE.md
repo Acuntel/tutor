@@ -1,7 +1,7 @@
 # MATH-118: Fundamental Principles of Calculus
 
 **Semester:** Fall 2026
-**Status:** shell only. No syllabus received yet.
+**Status:** shell. No syllabus yet, but lecture content has started arriving.
 **Source so far:** WebReg calendar screenshot, `../../semester/sources/2026-08-25-webreg-calendar.png`
 
 > The course title above is my best recollection of the USC catalog name and is
@@ -31,6 +31,12 @@ me to file it.
 - Required texts
 - Office hours and contact preferences
 - Submission platform
+
+## Content covered so far
+
+| Date | Topic | Notes |
+|---|---|---|
+| 2026-08-26 (Wed) | Present value and future value under continuous compounding: `P = B·e^(−rt)` and `B = P·e^(rt)` | `notes/2026-08-26.md` |
 
 ## Policies
 
