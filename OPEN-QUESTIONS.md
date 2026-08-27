@@ -55,6 +55,9 @@ These three are shells. Everything about them is unknown until their syllabi arr
 - [ ] **Rooms.** The calendar view does not show them. Only WRIT 150's room is known.
 - [ ] **Units for each course**, and the semester total.
 - [ ] **Discussion section instructors** for MATH-118 39454 and CTCS-190 18070.
+- [ ] 🚨 **BUAD 302 syllabus, blocking.** Graded work has already started (a week-1
+      discussion post) and the AI policy is unknown, so it is being treated as prohibiting
+      AI on graded work. Brady has the syllabus; it just is not filed.
 - [ ] **AI policy for each of the three.** Do not assume anything carries over from WRIT 150
       in either direction. Get each one in writing.
 - [ ] **Grading breakdowns, exam dates, and submission platforms** for all three.

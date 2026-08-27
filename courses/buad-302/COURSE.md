@@ -1,7 +1,10 @@
 # BUAD-302: Communication Strategy in Business
 
 **Semester:** Fall 2026
-**Status:** shell only. No syllabus received yet.
+**Status:** shell. No syllabus yet, but graded work has already started.
+
+🚨 **The syllabus is now blocking.** A week-1 discussion post is due and the course AI policy
+is unknown, so it is being treated as prohibiting AI on graded work. Send the syllabus.
 **Source so far:** WebReg calendar screenshot, `../../semester/sources/2026-08-25-webreg-calendar.png`
 
 > The course title above is my best recollection of the USC catalog name and is
