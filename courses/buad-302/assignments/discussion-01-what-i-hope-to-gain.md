@@ -28,6 +28,38 @@ business communication with money attached:
 - Naming his own price out loud, e.g. $7,500 plus $200/month on PondPro
 - Being 18 and needing to be taken seriously in the first thirty seconds of a client call
 
+## Course content, from USC Marshall's published BUAD 302 syllabi
+
+Researched 2026-08-26 from Marshall's own posted syllabi, since Brady's section syllabus is
+not filed yet. **Verify against his actual section syllabus before relying on it.** These are
+the course's own terms, which is what makes a post read as having actually read the syllabus.
+
+Stated learning objectives across sections:
+- **Audience analysis.** Evaluating purpose, audience, context, and channel before
+  constructing a message.
+- **Channel selection.** Choosing the right medium for the message and the audience.
+- **Crafting persuasive arguments.**
+- **Adapting a key message** for different internal vs external audiences and channels.
+- **Research-based strategies for building interpersonal business relationships.**
+- **Team communication**, as a member and as a leader.
+- Delivered experientially: case studies, simulations, exercises mirroring real business
+  challenges. 4 units.
+
+Sources:
+- https://msbfile03.usc.edu/digitalmeasures/mariacol/schteach/Final%20BUAD%20302%20SUM%2018%20Syllabus-1.pdf
+- https://msbfile03.usc.edu/digitalmeasures/lbier/schteach/BIER%20302%20Course%20Syllabus%20Fall%202018-2.pdf
+- https://web-app.usc.edu/ws/soc_archive/soc/term-20231/course/buad-302/index.html
+
+## Where the course maps onto what Brady already does
+
+| Course concept | His experience |
+|---|---|
+| Audience analysis + channel selection | Built cold email bots for watch/car/yacht/jet dealers, Hermann, Dubai Delights distributors. Has been doing audience analysis by intuition and measuring reply rates. The course names the theory behind what he has been A/B testing blind. |
+| Adapting one message for different audiences | Explains the same system to Paul, to the crew, to Karen, to Andy. Same product, very different audiences. |
+| Persuasive argument | The pricing conversation. $7,500 plus $200/month on PondPro. |
+| Interpersonal relationship building | 18 years old doing B2B. A credibility gap to close in the first thirty seconds. |
+| **Team communication as a leader** | **Solo founder. This is the real gap, and naming it honestly is stronger material than any strength.** |
+
 ## Questions whose answers are the post
 
 1. Thousands of cold emails sent. What does he still genuinely not know about why some
@@ -36,6 +68,12 @@ business communication with money attached:
 3. What is actually hard about the moment he says the number in a pricing conversation?
 4. What specific thing on the BUAD 302 syllabus made him think "I need that"?
 5. What is concretely different in six months if this class works?
+
+## Fastest route to a draft
+
+Open NessoTalk and talk for two minutes answering the five questions above. That yields
+roughly 300 words in his own voice. Cut to 200 to 250. Faster than typing and authentically
+his. File the transcript here the same day, since the clipboard is the only copy.
 
 ## Suggested shape for 200 to 250 words
 
